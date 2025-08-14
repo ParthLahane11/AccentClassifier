@@ -17,7 +17,17 @@ It processes `.wav` files, extracts spectrogram features, and trains a neural ne
 ├── requirements.txt    # Dependencies
 └── README.md           # Project documentation
 ```
+---
 
+## Dataset
+The dataset used in this project is **Mozilla Common Voice Corpus 22.0** in English,  
+specifically the file:  
+`cv-corpus-22.0-delta-2025-06-20-en.tar.gz`  
+
+You can download the dataset from the official Common Voice website:  
+[https://commonvoice.mozilla.org/en/datasets](https://commonvoice.mozilla.org/en/datasets)
+
+---
 ---
 
 ## ⚙️ Installation
